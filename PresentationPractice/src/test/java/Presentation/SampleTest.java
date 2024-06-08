@@ -13,6 +13,7 @@ public class SampleTest {
     	driver.get("https://www.myntra.com/?utm_source=dms_bing&utm_medium=dms_bing_cpc&utm_campaign=dms_bing_Brand_Exact_Desktop&utm_adgroup=Myntra_Generic&keyword=myntra%5D&matchtype=e&utm_source=bing&msclkid=d4faad1a7f561e407f35cb7b28925c26&utm_term=myntra%5D&utm_content=Myntra_Generic");
 		driver.get("https://www.flipkart.com/");
 		driver.get("https://www.amazon.in/");
+		System.out.println("Hello");
 		driver.get("https://www.dmart.in/");
 		
 	}
